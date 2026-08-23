@@ -4,7 +4,7 @@ A simple Blackjack game built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[Play Blackjack](YOUR-LIVE-LINK-HERE)
+[Play Blackjack](https://blackjackgame493.netlify.app/)
 
 ## Screenshot
 
